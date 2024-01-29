@@ -1,0 +1,18 @@
+@media screen and (max-width: 1050px) {
+    .card-container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+}
+@media screen and (max-width: 880px) {
+    .card-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+}
+@media screen and (max-width: 700px) {
+    .card-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+}
