@@ -1,17 +1,16 @@
 # Web Interface do Spotify (Clone)
 
-**Introdução:**
+## **Introdução:**
 
 Este projeto é um clone da interface web do Spotify. Ele foi desenvolvido usando as seguintes tecnologias:
-* HTML: para definir a estrutura da página web.
-* CSS: para definir o estilo da página web.
-* JavaScript: para controlar o comportamento da página web.
 
-**Objetivo:**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+## **Objetivo:**
 
 O objetivo deste projeto é criar uma interface web que seja semelhante à interface web do Spotify. A interface deve permitir que os usuários reproduzam músicas, criem playlists e acessem suas listas de reprodução.
 
-**Desenvolvimento:**
+## **Desenvolvimento:**
 
 *Uso de arquivo JSON:*
 O arquivo JSON foi usado para armazenar os dados dos artistas. O arquivo JSON contém um array de objetos, cada objeto representando um artista/banda. Cada objeto contém as seguintes propriedades:
